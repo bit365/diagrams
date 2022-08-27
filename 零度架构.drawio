@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T02:13:50.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="J1mlK7SoclZ4a-3v_vFg" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T02:14:50.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="LG7abENJ4r-nVqTmqjRJ" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
     <mxGraphModel dx="1347" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-85" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="460" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-91" value="&lt;b&gt;产品建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-91" value="&lt;b&gt;设备管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-97" value="&lt;b&gt;视频监控&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
