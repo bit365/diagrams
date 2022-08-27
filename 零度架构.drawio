@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T03:30:15.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BiiqUqJ_jjzt8KZXun7C" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T03:33:05.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="IORkX38zF2fYw_0LdMN-" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
     <mxGraphModel dx="1327" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,34 +87,34 @@
           <mxGeometry x="684" y="291" width="100" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-107" value="微信小程序" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1280.9999999999998" y="679" width="78" height="26" as="geometry" />
+          <mxGeometry x="1280.9999999999998" y="692" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-109" value="移动应用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1286.9999999999998" y="567" width="66" height="26" as="geometry" />
+          <mxGeometry x="1286.9999999999998" y="579" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-113" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;fontColor=#5C5C5C;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1298" y="396.5" width="48" height="37" as="geometry" />
+          <mxGeometry x="1298" y="419" width="48" height="37" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-114" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.mobile_services;pointerEvents=1;fontColor=#5C5C5C;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1303" y="507" width="36.39" height="47" as="geometry" />
+          <mxGeometry x="1303" y="528" width="36.39" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-115" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.laptop;pointerEvents=1;fontColor=#5C5C5C;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1296" y="289" width="50.61" height="31" as="geometry" />
+          <mxGeometry x="1296" y="308" width="50.61" height="31" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-116" value="PC终端" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1290.9999999999998" y="339" width="59" height="26" as="geometry" />
+          <mxGeometry x="1290.4999999999998" y="346" width="59" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-117" value="大屏监控" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1286.9999999999998" y="455" width="66" height="26" as="geometry" />
+          <mxGeometry x="1286.9999999999998" y="459" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-119" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.backup_service;fontColor=#5C5C5C;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1295.8600000000001" y="742.5" width="49.28" height="34" as="geometry" />
+          <mxGeometry x="1295.8600000000001" y="761.5" width="49.28" height="34" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-120" value="开放接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1286.9999999999998" y="791" width="66" height="26" as="geometry" />
+          <mxGeometry x="1286.9999999999998" y="799" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/WeChat-128.png;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1296.4999999999998" y="612" width="47" height="47" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/WeChat-128.png;fontColor=#5C5C5C;strokeColor=red;fillColor=red;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1296.4999999999998" y="641" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-138" value="&lt;span&gt;设备分组&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="794" y="291" width="100" height="47.5" as="geometry" />
