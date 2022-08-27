@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T07:34:34.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-MPg3lhCHF9cvowCbJhO" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T07:34:50.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0Y_cqJ225cN9pmcDMByb" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fillColor=none;labelBorderColor=#A9C4EB;fontStyle=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="537" y="272" width="660" height="656" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;curved=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0.5;" parent="1" source="tjXEyFFxzJn_yfCBgNNE-101" target="tjXEyFFxzJn_yfCBgNNE-73" edge="1">
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;curved=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" parent="1" source="tjXEyFFxzJn_yfCBgNNE-101" target="tjXEyFFxzJn_yfCBgNNE-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1285" y="598" as="sourcePoint" />
           </mxGeometry>
