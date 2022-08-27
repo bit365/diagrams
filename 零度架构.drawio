@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:50:01.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mFDXyhoI-a3tY5emFEGj" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:50:18.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oVhRpRz0Wla7GD0lxLW4" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="1021" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,7 +510,7 @@
           <mxGeometry x="589" y="565.3" width="21.33" height="19.2" as="geometry" />
         </mxCell>
         <mxCell id="OykGwKepjjzjVP9bX6be-20" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#21C0A5;shape=mxgraph.azure.message2;fontColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="567.45" width="20" height="14.8" as="geometry" />
+          <mxGeometry x="1277" y="567.45" width="20" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="Q3d9ZoM_DuRqxachtlG3-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="558.73" y="983.25" width="19.46" height="15" as="geometry" />
