@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T00:51:41.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Wu2EBy3B9lB9JpkCQQNj" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T01:26:43.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1At--A9_iikIbVnsEwh5" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_humidity_sensor;fillStyle=auto;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="78" height="78" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_humidity_sensor;fillStyle=auto;strokeWidth=0.3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="300" width="78" height="78" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;strokeWidth=0.3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_freertos_device;fillStyle=auto;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="78" height="78" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_freertos_device;fillStyle=auto;strokeWidth=0.3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_vibration_sensor;fillStyle=auto;strokeWidth=0.5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="100" width="78" height="78" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=default;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_vibration_sensor;fillStyle=auto;strokeWidth=0.3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-51" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#00BEF2;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sailboat;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
