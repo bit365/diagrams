@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T15:24:55.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="80mfaJqpG8CANOrHv2MI" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T15:25:09.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2fs-WLVU62auFDDfCwdx" version="20.2.7" type="github" pages="2">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
         <mxCell id="SBDi9htrt83415Pmaygb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#5C5C5C;startArrow=none;startFill=0;strokeColor=#006658;fillColor=#21C0A5;" parent="1" source="SBDi9htrt83415Pmaygb-8" target="SBDi9htrt83415Pmaygb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SBDi9htrt83415Pmaygb-8" value="应用平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
+        <mxCell id="SBDi9htrt83415Pmaygb-8" value="应用平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#FFFFFF;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="529" y="679" width="926" height="47" as="geometry" />
         </mxCell>
         <mxCell id="SBDi9htrt83415Pmaygb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" parent="1" vertex="1">
@@ -452,13 +452,13 @@
         <mxCell id="q_jVPE3fw5CypQBl7Vj3-27" value="场景联动" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1316" y="290" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="SBDi9htrt83415Pmaygb-1" value="设备接入" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
+        <mxCell id="SBDi9htrt83415Pmaygb-1" value="设备接入" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#FFFFFF;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="529" y="98" width="926" height="47" as="geometry" />
         </mxCell>
         <mxCell id="SBDi9htrt83415Pmaygb-3" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="529" y="481" width="926" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="SBDi9htrt83415Pmaygb-4" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
+        <mxCell id="SBDi9htrt83415Pmaygb-4" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#FFFFFF;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="529" y="481" width="926" height="47" as="geometry" />
         </mxCell>
         <mxCell id="SBDi9htrt83415Pmaygb-11" value="事件总线" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;fontStyle=1" parent="1" vertex="1">
