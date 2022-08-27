@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T02:16:36.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1MXiJE3la9tNv1v2qDCb" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T02:21:09.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fKCDDD8K-cqaxhcRB_eq" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
     <mxGraphModel dx="1347" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,29 +90,20 @@
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-85" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="460" y="570" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-91" value="&lt;b&gt;设备管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-97" value="&lt;b&gt;视频监控&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-98" value="&lt;b&gt;监控运维&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-99" value="&lt;b&gt;接入通信&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#5C5C5C;fillColor=none;labelBorderColor=#A9C4EB;strokeColor=#006658;" vertex="1" parent="1">
           <mxGeometry x="1090" y="240" width="340" height="650" as="geometry" />
-        </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-100" value="&lt;b&gt;设备管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-102" value="应用程序" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1090" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-103" value="&lt;b&gt;数据分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-103" value="&lt;b&gt;产品建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="312.5" width="100" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-107" value="微信小程序" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1153.61" y="690" width="80" height="30" as="geometry" />
@@ -143,6 +134,15 @@
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/WeChat-128.png;fontColor=#38185C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
           <mxGeometry x="1154.61" y="611" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-137" value="&lt;b&gt;设备接入&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="312.5" width="100" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-138" value="&lt;b&gt;设备分组&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="312.5" width="100" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-140" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#38185C;strokeColor=#006658;fillColor=#21C0A5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="313" width="120" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
