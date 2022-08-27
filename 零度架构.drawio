@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:34:58.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Kfiy39N8hg94v1By84UD" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:36:33.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="yGoTZPXIhG_4z87bjMc-" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -496,6 +496,12 @@
         </mxCell>
         <mxCell id="OykGwKepjjzjVP9bX6be-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.azure_load_balancer;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="1329" y="305" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="OykGwKepjjzjVP9bX6be-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="565.75" width="17" height="18.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OykGwKepjjzjVP9bX6be-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="824" y="565.5" width="18.05" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
