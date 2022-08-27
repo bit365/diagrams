@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T08:49:27.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XSpnjUSs5pJgLM3noL5Y" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T08:54:03.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_qUpKFb6JO1YVB14uuQx" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -295,13 +295,13 @@
           <mxGeometry x="480" y="282.5" width="156" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-45" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="679" y="93.5" width="95" height="239.5" as="geometry" />
+          <mxGeometry x="805" y="95" width="95" height="240" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-4" value="报警通知" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="821" y="95" width="120" height="47" as="geometry" />
+          <mxGeometry x="934" y="95" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-16" value="数据流转" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="821" y="220.5" width="120" height="47" as="geometry" />
+          <mxGeometry x="934" y="161" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="q_jVPE3fw5CypQBl7Vj3-15" value="" style="edgeStyle=none;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#5C5C5C;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeColor=#006658;strokeWidth=1;fillColor=#21C0A5;" edge="1" parent="1" source="pGiumpKVXoyIcVX1KCBO-17" target="pGiumpKVXoyIcVX1KCBO-27">
           <mxGeometry relative="1" as="geometry" />
@@ -385,20 +385,20 @@
         <mxCell id="pGiumpKVXoyIcVX1KCBO-34" value="BFF聚合" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="479" y="724.5" width="95" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="pGiumpKVXoyIcVX1KCBO-37" value="分布式日志" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="356" y="471" width="120" height="60" as="geometry" />
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-37" value="日志跟踪" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="618" y="471" width="321" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-38" value="分布式缓存" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="471" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="q_jVPE3fw5CypQBl7Vj3-8" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="646" y="471" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="471" width="363" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q_jVPE3fw5CypQBl7Vj3-11" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="821" y="158.5" width="120" height="47" as="geometry" />
+          <mxGeometry x="934" y="238" width="120" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="q_jVPE3fw5CypQBl7Vj3-12" value="分布式消息队列" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="501" y="471" width="120" height="60" as="geometry" />
+        <mxCell id="q_jVPE3fw5CypQBl7Vj3-12" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="657" y="94.25" width="120" height="241.75" as="geometry" />
+        </mxCell>
+        <mxCell id="q_jVPE3fw5CypQBl7Vj3-20" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="972" y="471" width="321" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
