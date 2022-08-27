@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T08:16:02.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="OtNC7Wx1YdYqp9l3bAR5" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T08:18:52.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Wpv83q9XV9As7iuRMNpM" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="983" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="567" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,6 +365,18 @@
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-34" value="BFF聚合" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="479" y="726.5" width="95" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-37" value="分布式日志" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-38" value="分布式缓存" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-40" value="状态管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="503" y="476" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-41" value="密钥存储" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="646" y="476" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
