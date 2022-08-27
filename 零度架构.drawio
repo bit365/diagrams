@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T03:46:48.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2AMXci7bl8WX7bKskIa6" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T03:47:06.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0HTuQCtjhlcqZoWOlFyb" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
     <mxGraphModel dx="1327" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="0i5c23y_zRVQkmlZ4660-2" value="&lt;span&gt;第三方接入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="799" y="808.5" width="100" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="0i5c23y_zRVQkmlZ4660-6" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="0i5c23y_zRVQkmlZ4660-6" value="" style="group;fontColor=#5C5C5C;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1302" y="639" width="38" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/WeChat-128.png;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;rounded=0;fontStyle=1;fontFamily=Verdana;" parent="0i5c23y_zRVQkmlZ4660-6" vertex="1">
