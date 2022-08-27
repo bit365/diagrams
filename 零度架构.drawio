@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T02:10:46.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jtWT_QxaSnzY1RLAIhxN" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T02:12:00.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SxkDy6cknwOSLRw57alp" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
-    <mxGraphModel dx="1131" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1347" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-72" value="设备终端" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="tjXEyFFxzJn_yfCBgNNE-73" target="tjXEyFFxzJn_yfCBgNNE-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#5C5C5C;fillColor=none;labelBorderColor=#A9C4EB;strokeColor=#006658;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="520" height="650" as="geometry" />
         </mxCell>
@@ -134,6 +137,12 @@
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-117" value="大屏监控" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1153.61" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-119" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.backup_service;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="740" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-120" value="开放接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1155.8300000000002" y="800" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
