@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T08:18:52.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Wpv83q9XV9As7iuRMNpM" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T08:24:14.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gVQR71Bebi3VyRFukiJp" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
           <mxGeometry x="824" y="261" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-3" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="824" y="195" width="120" height="47" as="geometry" />
+          <mxGeometry x="824" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-4" value="报警通知" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="824" y="327" width="120" height="47" as="geometry" />
@@ -361,7 +361,7 @@
           <mxGeometry x="629" y="724.5" width="105" height="52" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-29" value="事件总线" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="794" y="577" width="108" height="273.5" as="geometry" />
+          <mxGeometry x="795" y="580" width="108" height="272" as="geometry" />
         </mxCell>
         <mxCell id="pGiumpKVXoyIcVX1KCBO-34" value="BFF聚合" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="479" y="726.5" width="95" height="122" as="geometry" />
