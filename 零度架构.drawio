@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T07:41:18.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VtOLyc7TfcCXIQ3akQF9" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T08:08:53.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0rnHNkk6NtHcW1IKJhIh" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -281,15 +281,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="1206" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="829" dy="496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fillColor=none;labelBorderColor=#A9C4EB;fontStyle=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="327" y="122" width="660" height="656" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;curved=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" edge="1" parent="1" source="f2aOGRNWcIEWTRS3dZkF-18" target="f2aOGRNWcIEWTRS3dZkF-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="f2aOGRNWcIEWTRS3dZkF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;curved=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" edge="1" parent="1" target="f2aOGRNWcIEWTRS3dZkF-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="987.0000000000002" y="479" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=12;fillColor=none;labelBorderColor=#A9C4EB;fontStyle=1;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1072" y="122" width="114" height="656" as="geometry" />
@@ -321,86 +320,23 @@
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-33" value="开放接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontStyle=1;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1092.9999999999998" y="697" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-35" value="MQTT Broker" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="189.5" width="120" height="47" as="geometry" />
+        <mxCell id="f2aOGRNWcIEWTRS3dZkF-35" value="MQTT Broker" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="189.5" width="157" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-41" value="Modbus Hub" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="263" width="120" height="47" as="geometry" />
+        <mxCell id="f2aOGRNWcIEWTRS3dZkF-41" value="Modbus Hub" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="290" width="156" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-42" value="HTTP(S) Hub" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="337" width="120" height="47" as="geometry" />
+        <mxCell id="f2aOGRNWcIEWTRS3dZkF-42" value="HTTP(S) Hub" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="377" width="156" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-45" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="567" y="263" width="120" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-46" value="&lt;span&gt;场景联动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="410.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-47" value="&lt;span&gt;数据转发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="410.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-48" value="&lt;span&gt;消息订阅&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="410.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-49" value="监控运维" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="485" width="120" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-50" value="&lt;span&gt;日志服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="484.75" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-51" value="&lt;span&gt;远程升级&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="484.75" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-52" value="&lt;span&gt;在线调试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="484.75" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-53" value="策略授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="558" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-54" value="访问控制" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="559" width="120" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-55" value="&lt;span&gt;角色管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="558" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-56" value="&lt;span&gt;用户管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="558" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-57" value="&lt;span&gt;云云对接&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="706.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-58" value="开放平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="707" width="120" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-59" value="&lt;span&gt;身份认证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="868" y="558.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-60" value="视频接入" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="633" width="120" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-61" value="&lt;span&gt;实时监控&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="632.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-62" value="&lt;span&gt;录播回放&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="632.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-63" value="&lt;span&gt;报警跟踪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="757" y="632.5" width="100" height="47.5" as="geometry" />
+        <mxCell id="f2aOGRNWcIEWTRS3dZkF-45" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="188" width="95" height="239.5" as="geometry" />
         </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-64" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;fontStyle=1;fontFamily=Verdana;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1002" y="424" width="53" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-67" value="零度云平台" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="327" y="122" width="660" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-68" value="应用程序" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1072" y="122" width="114" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-69" value="&lt;span&gt;接口文档&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="527" y="706.5" width="100" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="f2aOGRNWcIEWTRS3dZkF-70" value="&lt;span&gt;第三方接入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1;fontFamily=Verdana;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="642" y="706.5" width="100" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-71" value="" style="group;fontColor=#5C5C5C;sketch=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1108" y="537" width="38" height="48.5" as="geometry" />
@@ -410,6 +346,45 @@
         </mxCell>
         <mxCell id="f2aOGRNWcIEWTRS3dZkF-73" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.mobile;pointerEvents=1;fillStyle=auto;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="f2aOGRNWcIEWTRS3dZkF-71">
           <mxGeometry width="38" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-2" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="254" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-3" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="188" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-4" value="报警通知" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="320" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-16" value="数据流转" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="379.5" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-17" value="设备" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="189.5" width="95" height="239.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-18" value="PC应用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="457.5" width="95" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-19" value="API网关" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="457.5" width="95" height="273.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-20" value="微信小程序" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="530" width="95" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-21" value="移动应用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="608" width="95" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-22" value="监控大屏" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="677" width="95" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-23" value="BFF聚合" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="457.5" width="95" height="273.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-24" value="设备管理微服务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="457.5" width="105" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pGiumpKVXoyIcVX1KCBO-25" value="认证与授权微服务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="580" width="105" height="104.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
