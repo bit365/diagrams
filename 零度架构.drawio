@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T02:01:28.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="96JPY9pp3-FUb7Rsdwza" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T02:10:37.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="98ork0oyFVPvbDQfErVi" version="20.2.7" type="github">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="第 1 页">
-    <mxGraphModel dx="1347" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,17 +99,41 @@
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-99" value="&lt;b&gt;接入通信&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#5C5C5C;fillColor=none;labelBorderColor=#A9C4EB;strokeColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="240" width="340" height="650" as="geometry" />
+        </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-100" value="&lt;b&gt;设备管理&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tjXEyFFxzJn_yfCBgNNE-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#5C5C5C;fillColor=none;labelBorderColor=#A9C4EB;strokeColor=#006658;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="180" width="340" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-102" value="企业应用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1080" y="180" width="70" height="30" as="geometry" />
+          <mxGeometry x="1090" y="240" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-103" value="&lt;b&gt;数据分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/rounded-social-media/512/wechat-128.png;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="1165.12" y="632" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-107" value="微信小程序" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1153.61" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-109" value="移动应用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1153.1200000000001" y="576" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-113" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1153.61" y="393" width="74.44" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-114" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1164.8899999999999" y="500" width="46.46" height="71.48" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-115" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="1149.17" y="290" width="83.33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-116" value="PC终端" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1159.17" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjXEyFFxzJn_yfCBgNNE-117" value="大屏监控" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontColor=#5C5C5C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1153.61" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
