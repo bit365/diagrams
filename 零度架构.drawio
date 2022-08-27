@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:41:27.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2j7NXZUN_DNfLl6bfQaD" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:44:15.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="D9xTHO-l6TwBbltXxFIx" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -511,6 +511,27 @@
         </mxCell>
         <mxCell id="OykGwKepjjzjVP9bX6be-20" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#21C0A5;shape=mxgraph.azure.message2;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="1280" y="567.45" width="20" height="14.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="558.73" y="983.25" width="19.46" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.mobile_services;pointerEvents=1;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="908.62" width="14.91" height="19.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.laptop;pointerEvents=1;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="556" y="762.63" width="24.9" height="15.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.backup_service;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="723.2500000000001" y="1597.5" width="49.28" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-5" value="" style="group;fontColor=#5C5C5C;sketch=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="551" y="832" width="20" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/WeChat-128.png;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="Q3d9ZoM_DuRqxachtlG3-5">
+          <mxGeometry x="4.510855263157895" y="7.216494845360824" width="10.567010309278349" height="10.567010309278349" as="geometry" />
+        </mxCell>
+        <mxCell id="Q3d9ZoM_DuRqxachtlG3-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.mobile;pointerEvents=1;fillStyle=auto;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" vertex="1" parent="Q3d9ZoM_DuRqxachtlG3-5">
+          <mxGeometry width="20" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
