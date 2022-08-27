@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:21:24.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tyQ1RofHA19yNX_OqyOB" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:23:28.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d99OcX4MCVmsRI7B3le5" version="20.2.7" type="github" pages="3">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="1264" dy="756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,6 +460,12 @@
         </mxCell>
         <mxCell id="SBDi9htrt83415Pmaygb-11" value="事件总线" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1229" y="546" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OykGwKepjjzjVP9bX6be-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sensor;" vertex="1" parent="1">
+          <mxGeometry x="584.18" y="246" width="20.64" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="OykGwKepjjzjVP9bX6be-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.connector;" vertex="1" parent="1">
+          <mxGeometry x="706" y="252.41" width="39.25" height="14.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
