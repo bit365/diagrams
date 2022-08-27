@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T06:47:05.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="r5s3lEzotTi3ac2meqbO" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T06:48:16.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RDYKhhCjcQ0MQV2_4Dlf" version="20.2.7" type="github" pages="2">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1561" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
           <mxGeometry x="709" y="291" width="100" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-107" value="微信小程序" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontStyle=1;fontColor=#5C5C5C;" parent="1" vertex="1">
-          <mxGeometry x="1280.9999999999998" y="692" width="78" height="26" as="geometry" />
+          <mxGeometry x="1270.3099999999997" y="692" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tjXEyFFxzJn_yfCBgNNE-109" value="移动应用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Verdana;fontSize=12;fontStyle=1;fontColor=#5C5C5C;" parent="1" vertex="1">
           <mxGeometry x="1274.9999999999998" y="579" width="66" height="26" as="geometry" />
