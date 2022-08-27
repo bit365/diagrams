@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T09:52:44.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lHi5zzIyczGhvDXCAlq3" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-27T09:54:37.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="phIqG64uV-2qZnsbKim4" version="20.2.7" type="github" pages="2">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
-    <mxGraphModel dx="1154" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="1206" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1769" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,14 +545,6 @@
         <mxCell id="Q3d9ZoM_DuRqxachtlG3-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.autoscale;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="1283" y="981.5" width="20" height="12" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="a5DOz7DtAAZYuJNINihR" name="第 3 页">
-    <mxGraphModel dx="1327" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
