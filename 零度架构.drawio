@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T15:25:09.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2fs-WLVU62auFDDfCwdx" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-28T12:44:47.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sFP2xM6kLiShtxTmIzM4" version="20.2.7" type="github" pages="2">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="njiM3GuUAcsLUfjWP6lE" name="软件架构图">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -517,9 +517,6 @@
         </mxCell>
         <mxCell id="Q3d9ZoM_DuRqxachtlG3-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.laptop;pointerEvents=1;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="762.63" width="20.9" height="15.25" as="geometry" />
-        </mxCell>
-        <mxCell id="Q3d9ZoM_DuRqxachtlG3-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.backup_service;rounded=0;fontStyle=1;fontFamily=Verdana;fillColor=#21C0A5;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="723.2500000000001" y="1597.5" width="49.28" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Q3d9ZoM_DuRqxachtlG3-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/WeChat-128.png;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" parent="1" vertex="1">
           <mxGeometry x="561" y="837.25" width="16" height="16" as="geometry" />
