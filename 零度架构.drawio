@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T15:50:56.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="01SlrYc0WLMMuFq2d74i" version="20.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-15T15:51:52.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dHYfE9oYRpmCruLLa-CM" version="20.3.1" type="github" pages="2">
   <diagram id="eXwY4UNL-JvXnbsKmHx1" name="产品架构">
     <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H5lYueh-CTzTfu4jXoPp-1" value="外部应用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;fillColor=none;strokeColor=#006658;fontColor=#5C5C5C;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="547" y="973" width="121" height="45" as="geometry" />
+          <mxGeometry x="547" y="973" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="H5lYueh-CTzTfu4jXoPp-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#21C0A5;shape=mxgraph.azure.backup_service;fontColor=#5C5C5C;" parent="1" vertex="1">
           <mxGeometry x="559.5" y="987.5" width="19" height="15" as="geometry" />
