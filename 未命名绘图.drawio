@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T01:57:22.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9-BvrdElLYIeOu3h8QVd" version="21.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-19T02:03:48.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1y3ZJ-jpLCBNcfvIFXYj" version="21.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="J1YRUa0OZ2RkJ96QdJu6">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,34 +151,69 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LutK9io6QSdXw9ofnlee-16" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;发布程序不影响客户访问方案&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="221" y="53" width="408" height="48" as="geometry" />
+          <mxGeometry x="210" y="67" width="408" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LutK9io6QSdXw9ofnlee-51" value="阿里云RDS" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;" vertex="1" parent="1">
-          <mxGeometry x="652" y="342" width="38" height="50" as="geometry" />
+          <mxGeometry x="685" y="334" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LutK9io6QSdXw9ofnlee-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LutK9io6QSdXw9ofnlee-52" target="LutK9io6QSdXw9ofnlee-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LutK9io6QSdXw9ofnlee-52" value="ECS1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
-          <mxGeometry x="445" y="263" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="478" y="255" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="LutK9io6QSdXw9ofnlee-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LutK9io6QSdXw9ofnlee-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649" y="367" as="targetPoint" />
+            <mxPoint x="682" y="359" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="574" y="440" />
-              <mxPoint x="574" y="367" />
+              <mxPoint x="607" y="432" />
+              <mxPoint x="607" y="359" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LutK9io6QSdXw9ofnlee-53" value="ECS2" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
-          <mxGeometry x="445" y="423" width="50" height="33" as="geometry" />
+          <mxGeometry x="478" y="415" width="50" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="LutK9io6QSdXw9ofnlee-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="72" y="291" width="50" height="45" as="geometry" />
+        <mxCell id="LutK9io6QSdXw9ofnlee-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LutK9io6QSdXw9ofnlee-66" target="LutK9io6QSdXw9ofnlee-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="301.5" />
+              <mxPoint x="234" y="361.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="LutK9io6QSdXw9ofnlee-67" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="415" width="32.5" height="50" as="geometry" />
+        <mxCell id="LutK9io6QSdXw9ofnlee-66" value="PC客户" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine_feature;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="279" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LutK9io6QSdXw9ofnlee-67" target="LutK9io6QSdXw9ofnlee-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-67" value="微信公众号" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="132.75" y="398" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LutK9io6QSdXw9ofnlee-68" target="LutK9io6QSdXw9ofnlee-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-68" value="Nginx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="336.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LutK9io6QSdXw9ofnlee-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="358.5" as="sourcePoint" />
+            <mxPoint x="488" y="294.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="423" y="393.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-82" value="节点1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="396" y="295.5" width="49" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-83" value="节点2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="371.5" width="49" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-84" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;当其中某个节点发布部署或偶遇故障时自动切换到另外节点，不影响客户使用&lt;/font&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="82" y="150" width="728" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
