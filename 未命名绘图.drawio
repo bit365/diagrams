@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T01:39:27.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GkHlw4DsG7zbHrmovP1W" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T01:41:16.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mvJccisGTwIm6aRAqzFP" version="21.1.8" type="github">
   <diagram name="第 1 页" id="J1YRUa0OZ2RkJ96QdJu6">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,91 +8,91 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-1" value="需求提出" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="74" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-2" target="fjiemUw4WQ8zHXGumyIW-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-2" value="MasterGo草图" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-6" target="fjiemUw4WQ8zHXGumyIW-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-6" value="草图确认" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="434" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-8" target="fjiemUw4WQ8zHXGumyIW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-8" value="编码开发" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="634" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-10" target="fjiemUw4WQ8zHXGumyIW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-10" value="内网服务器测试" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="630" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="634" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-12" target="fjiemUw4WQ8zHXGumyIW-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-12" value="待需求提出方确认" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="434" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-14" target="fjiemUw4WQ8zHXGumyIW-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-14" value="发布至阿里云ECS" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="254" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-16" value="迭代完成" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="70" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="74" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-22" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;远感软件开发模式&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="167" width="258" height="48" as="geometry" />
+          <mxGeometry x="289" y="89" width="258" height="48" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-23" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;开发工具链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="610" width="168" height="48" as="geometry" />
+          <mxGeometry x="325" y="549" width="168" height="48" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-25" target="fjiemUw4WQ8zHXGumyIW-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-25" value="使用钉钉任务和待办跟踪需求和进度" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="74" y="726" width="120" height="60" as="geometry" />
+          <mxGeometry x="69" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-27" target="fjiemUw4WQ8zHXGumyIW-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-27" value="使用阿里云效GIT版本控制和团队协作" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="254" y="726" width="120" height="60" as="geometry" />
+          <mxGeometry x="249" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-29" target="fjiemUw4WQ8zHXGumyIW-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-29" value=".NET&amp;nbsp; + VS + SqlServer + React" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="424" y="726" width="330" height="60" as="geometry" />
+          <mxGeometry x="419" y="665" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-33" target="fjiemUw4WQ8zHXGumyIW-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-33" value="WebDev一键发布到内网服务器" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="620" y="856" width="134" height="60" as="geometry" />
+          <mxGeometry x="615" y="795" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-35" target="fjiemUw4WQ8zHXGumyIW-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjiemUw4WQ8zHXGumyIW-35" value="使用" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="434" y="856" width="120" height="60" as="geometry" />
+        <mxCell id="fjiemUw4WQ8zHXGumyIW-35" value="需求方浏览器测试" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
+          <mxGeometry x="429" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" edge="1" parent="1" source="fjiemUw4WQ8zHXGumyIW-37" target="fjiemUw4WQ8zHXGumyIW-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fjiemUw4WQ8zHXGumyIW-37" value="发布至阿里云ECS" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="254" y="856" width="120" height="60" as="geometry" />
+        <mxCell id="fjiemUw4WQ8zHXGumyIW-37" value="工具同步上传到阿里云 ECS" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
+          <mxGeometry x="249" y="795" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fjiemUw4WQ8zHXGumyIW-38" value="迭代完成" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
-          <mxGeometry x="74" y="856" width="120" height="60" as="geometry" />
+        <mxCell id="fjiemUw4WQ8zHXGumyIW-38" value="二次确认测试" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
+          <mxGeometry x="69" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="963" y="808" width="40" height="26" as="geometry" />
