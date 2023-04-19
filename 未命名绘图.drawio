@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T01:49:06.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x_JYsvk_sHufYrk8Dpdv" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T01:51:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aJbonFjuSOSr78OrMORH" version="21.1.8" type="github" pages="2">
   <diagram name="第 1 页" id="J1YRUa0OZ2RkJ96QdJu6">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,26 @@
         </mxCell>
         <mxCell id="fjiemUw4WQ8zHXGumyIW-69" value="开发并修复" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#2B5797;" vertex="1" parent="1">
           <mxGeometry x="620" y="887" width="152" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wFdDoGZCELNxB5yp8XMG" name="第 2 页">
+    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LutK9io6QSdXw9ofnlee-16" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;发布程序不影响客户访问方案&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="221" y="53" width="408" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-48" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="127" y="276" width="57" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-49" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mobile_client;" vertex="1" parent="1">
+          <mxGeometry x="133" y="392" width="41" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="LutK9io6QSdXw9ofnlee-50" value="阿里云RDS" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_cache;" vertex="1" parent="1">
+          <mxGeometry x="629" y="325" width="45" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
