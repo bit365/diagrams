@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T05:59:34.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tkpoza88v7jLK-svfA7X" version="21.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-13T06:00:14.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ExzRhpnnwsr9sN9Yq2p8" version="21.5.1" type="github" pages="2">
   <diagram name="硬件架构" id="IVF-T1vuP3Zt9l8w4tPT">
     <mxGraphModel dx="1821" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
         <mxCell id="KhgdXr3l_NWg99dcMsrg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;" parent="1" source="KhgdXr3l_NWg99dcMsrg-11" target="KhgdXr3l_NWg99dcMsrg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KhgdXr3l_NWg99dcMsrg-11" value="PC端" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" parent="1" vertex="1">
+        <mxCell id="KhgdXr3l_NWg99dcMsrg-11" value="Web浏览器" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="256" y="120.425" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="KhgdXr3l_NWg99dcMsrg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B3B3B3;" parent="1" source="KhgdXr3l_NWg99dcMsrg-12" target="KhgdXr3l_NWg99dcMsrg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KhgdXr3l_NWg99dcMsrg-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" parent="1" vertex="1">
+        <mxCell id="KhgdXr3l_NWg99dcMsrg-12" value="互联网" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" parent="1" vertex="1">
           <mxGeometry x="384" y="126.675" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="KhgdXr3l_NWg99dcMsrg-25" value="云服务器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
