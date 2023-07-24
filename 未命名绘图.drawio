@@ -1,73 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T11:21:57.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ayvzDnrGYTs_dhPT5wv" version="21.6.5" type="github" pages="2">
-  <diagram name="Page-1" id="BFOBVUSOfBzUbcaRCpyZ">
-    <mxGraphModel dx="1259" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-07-24T11:26:18.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="w4ZlGLj_CiUEJ5othM37" type="github">
+  <diagram name="第 1 页" id="Jsd-dne5opygkCFEj_SH">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-2" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="84" y="100" width="660" height="560" as="geometry">
-            <mxRectangle x="100" y="100" width="90" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" source="TYbiMNiqOtM3m5Z0ZR_s-5" target="TYbiMNiqOtM3m5Z0ZR_s-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" source="TYbiMNiqOtM3m5Z0ZR_s-5" target="TYbiMNiqOtM3m5Z0ZR_s-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="TYbiMNiqOtM3m5Z0ZR_s-5">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-6" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-7" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" source="TYbiMNiqOtM3m5Z0ZR_s-7" target="TYbiMNiqOtM3m5Z0ZR_s-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="190" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-10" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="160" y="290" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" source="TYbiMNiqOtM3m5Z0ZR_s-10" target="TYbiMNiqOtM3m5Z0ZR_s-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TYbiMNiqOtM3m5Z0ZR_s-12" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="160" y="390" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xa87xy89dS_jl5sSbCPK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="366" y="60" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xa87xy89dS_jl5sSbCPK-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" source="xa87xy89dS_jl5sSbCPK-1" target="xa87xy89dS_jl5sSbCPK-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xa87xy89dS_jl5sSbCPK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="TYbiMNiqOtM3m5Z0ZR_s-2" vertex="1">
-          <mxGeometry x="366" y="180" width="160" height="80" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="wHDVN_6zWadS47VQVNh4" name="第 2 页">
-    <mxGraphModel dx="2111" dy="1247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="_1nx3itUR3oo2Vgm0nqm-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="_1nx3itUR3oo2Vgm0nqm-1" target="_1nx3itUR3oo2Vgm0nqm-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_1nx3itUR3oo2Vgm0nqm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-384" y="-13" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_1nx3itUR3oo2Vgm0nqm-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-64" y="-13" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
